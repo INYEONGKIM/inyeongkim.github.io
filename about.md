@@ -4,18 +4,16 @@ title: About Me
 ---
 
 <div class="message">
-  안녕하세요! 저는 사람들의 변하지 않는 가치를 충족시켜주는 소프트웨어 기술들에 관심이 많습니다!
+  안녕하세요! 저는 사람들의 변하지 않는 가치를 충족시키는 소프트웨어 기술들에 관심이 많습니다!
 </div>
 
 ## Work Experience
-NCSOFT
+**NCSOFT**
 - Assistant System Engineer
-- 2020 NCSOFT Summer Internship
 - JUL 2020 ~ Aug 2020
 
-
 ## Education
-Hanyang University, ERICA Campus
+**Hanyang University, ERICA Campus**
 - B.S. Computer Science
 - Mar 2016 ~ Present
 
@@ -24,21 +22,20 @@ Anyang Puhung High School
 
 
 ## Project
-JAVIC : Just A Very Intelligent Chatbot
+**JAVIC : Just A Very Intelligent Chatbot**
 - Jul 2019 ~ May 2020
 - Capstone Project
 - Role in the Team : Team Leader, DevOps & System Infra Developer, Google OAuth API Server Developer, Mail Summary with TextRank
 - Keyword : DevOps, MSA, Docker, REST API Server, OAuth
+- [Demo Video](https://www.youtube.com/watch?v=PHlWZzqrfWQ&feature=youtu.be)
 
-[Demo Video](https://www.youtube.com/watch?v=PHlWZzqrfWQ&feature=youtu.be)
 
-
-Tony and Naeyo
+**Tony and Naeyo**
 - Sep 2019 ~ Dec 2019
 - IC-PBL 지능형 로봇 크래쉬랩, 기부로봇 제작 프로젝트
 - Role in the Team : ROS Software Architecture Design, Human Detection(Darknet), Robot Application
 - Keyword : ROS, Human Detection, OpenCV
-[Demo Video](https://www.youtube.com/watch?v=lqM59gqJGaY)
+- [Demo Video](https://www.youtube.com/watch?v=lqM59gqJGaY)
 
 
 ## Awards
