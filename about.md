@@ -25,7 +25,7 @@ title: About Me
 **JAVIC : Just A Very Intelligent Chatbot**
 - Jul 2019 ~ May 2020
 - Capstone Project
-- Keyword : DevOps, MSA, Docker, REST API Server, OAuth
+- **Keyword** : DevOps, MSA, Docker, REST API Server, OAuth
 - [Demo Video Link](https://www.youtube.com/watch?v=PHlWZzqrfWQ&feature=youtu.be)
 
 **Tony and Naeyo**
