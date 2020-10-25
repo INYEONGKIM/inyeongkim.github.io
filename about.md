@@ -12,8 +12,6 @@ title: About Me
 - Assistant System Engineer
 - JUL 2020 ~ Aug 2020
 
-<br>
-
 ## Education
 **Hanyang University, ERICA Campus**
 - B.S. Computer Science
@@ -22,21 +20,18 @@ title: About Me
 **Anyang Puhung High School**
 - Mar 2011 ~ Feb 2014
 
-<br>
 
 ## Project
 **JAVIC : Just A Very Intelligent Chatbot**
 - Jul 2019 ~ May 2020
 - Capstone Project
-- **Role in the Team** : Team Leader, DevOps & System Infra Developer, Google OAuth API Server Developer, Mail Summary with TextRank
-- **Keyword** : DevOps, MSA, Docker, REST API Server, OAuth
+- Keyword : DevOps, MSA, Docker, REST API Server, OAuth
 - [Demo Video Link](https://www.youtube.com/watch?v=PHlWZzqrfWQ&feature=youtu.be)
 
 **Tony and Naeyo**
 - Sep 2019 ~ Dec 2019
-- IC-PBL 지능형 로봇 크래쉬랩, 기부로봇 제작 프로젝트
-- **Role in the Team** : ROS Software Architecture Design, Human Detection(Darknet), Robot Application
-- **Keyword** : ROS, Human Detection, OpenCV
+- 2019-2 IC-PBL 지능형 로봇 크래쉬랩, 기부로봇 제작 프로젝트
+- **Keyword** : ROS, Human Detection(Darknet), OpenCV
 - [Demo Video Link](https://www.youtube.com/watch?v=lqM59gqJGaY)
 
 
