@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-### Work Experience
+## Work Experience
 NCSOFT
 - Assistant System Engineer
 - 2020 NCSOFT Summer Internship
 - JUL 2020 ~ Aug 2020
 
 
-### Education
+## Education
 Hanyang University, ERICA Campus
 - B.S. Computer Science
 - Mar 2016 ~ Present
@@ -19,7 +19,7 @@ Anyang Puhung High School
 - Mar 2011 ~ Feb 2014
 
 
-### Project
+## Project
 JAVIC : Just A Very Intelligent Chatbot
 - Jul 2019 ~ May 2020
 - Capstone Project
@@ -38,7 +38,7 @@ Tony and Naeyo
 [Demo Video](https://www.youtube.com/watch?v=lqM59gqJGaY)
 
 
-### Awards
+## Awards
 2019 한양대학교 SW/ICT 종합학술대회 우수상 (사물인터넷/사이버보안 분야)
 - OAuth 2.0 기반 공인인증시스템 디자인
 
