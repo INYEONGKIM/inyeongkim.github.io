@@ -12,14 +12,17 @@ title: About Me
 - Assistant System Engineer
 - JUL 2020 ~ Aug 2020
 
+<br>
+
 ## Education
 **Hanyang University, ERICA Campus**
 - B.S. Computer Science
 - Mar 2016 ~ Present
 
-Anyang Puhung High School
+**Anyang Puhung High School**
 - Mar 2011 ~ Feb 2014
 
+<br>
 
 ## Project
 **JAVIC : Just A Very Intelligent Chatbot**
@@ -29,7 +32,6 @@ Anyang Puhung High School
 - Keyword : DevOps, MSA, Docker, REST API Server, OAuth
 - [Demo Video](https://www.youtube.com/watch?v=PHlWZzqrfWQ&feature=youtu.be)
 
-
 **Tony and Naeyo**
 - Sep 2019 ~ Dec 2019
 - IC-PBL 지능형 로봇 크래쉬랩, 기부로봇 제작 프로젝트
@@ -38,6 +40,7 @@ Anyang Puhung High School
 - [Demo Video](https://www.youtube.com/watch?v=lqM59gqJGaY)
 
 
+<br>
 ## Awards
 - 2019 한양대학교 SW/ICT 종합학술대회 우수상 (사물인터넷/사이버보안 분야)
 - 2019 한양대학교 SW/ICT 종합학술대회 장려상 (창업 분야)
