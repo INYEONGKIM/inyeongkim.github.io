@@ -4,7 +4,7 @@ title: Educations
 ---
 
 ## Hanyang University, ERICA Campus
-B.S. Computer Science
+**B.S. Computer Science**
 Mar 2016 ~ Present
 
 ## Anyang Puhung High School
