@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <div class="message">
-  안녕하세요! 저는 사람들의 변하지 않는 가치를 충족시키는 소프트웨어 기술들에 관심이 많습니다!
+  안녕하세요!<br>사람들의 변하지 않는 가치를 충족시키는 소프트웨어 기술들에 관심이 많습니다!
 </div>
 
 ## Work Experience
@@ -34,8 +34,6 @@ title: About Me
 - **Keyword** : ROS, Human Detection(Darknet), OpenCV
 - [Demo Video Link](https://www.youtube.com/watch?v=lqM59gqJGaY)
 
-
-<br>
 ## Awards
 - 2019 한양대학교 SW/ICT 종합학술대회 우수상 (사물인터넷/사이버보안 분야)
 - 2019 한양대학교 SW/ICT 종합학술대회 장려상 (창업 분야)
