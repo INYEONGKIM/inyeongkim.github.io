@@ -10,12 +10,12 @@ title: About Me
 ## Work Experience
 **NCSOFT**
 - Assistant System Engineer
-- JUL 2020 ~ Aug 2020
+- JUN 2020 ~ Now
 
 ## Education
 **Hanyang University, ERICA Campus**
 - B.S. Computer Science
-- Mar 2016 ~ Present
+- Mar 2016 ~ Feb 2021
 
 **Anyang Puhung High School**
 - Mar 2011 ~ Feb 2014
