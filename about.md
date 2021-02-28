@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <div class="message">
-  안녕하세요!<br>사람들의 변하지 않는 가치를 충족시키는 소프트웨어 기술들에 관심이 많습니다!
+  안녕하세요!<br>변하지 않는 가치를 충족시키는 소프트웨어 기술들에 관심이 많습니다 :)
 </div>
 
 ## Work Experience
@@ -26,7 +26,7 @@ title: About Me
 - Jul 2019 ~ May 2020
 - Capstone Project
 - **Keyword** : DevOps, MSA, Docker, REST API Server, OAuth
-- [Demo Video Link](https://www.youtube.com/watch?v=PHlWZzqrfWQ&feature=youtu.be)
+- [Demo Video Link](https://youtu.be/m3kJfnsywrk)
 
 **Tony and Naeyo**
 - Sep 2019 ~ Dec 2019
