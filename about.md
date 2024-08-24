@@ -4,13 +4,13 @@ title: About Me
 ---
 
 <div class="message">
-  안녕하세요!<br>변하지 않는 가치를 충족시키는 소프트웨어 기술들에 관심이 많습니다 :)
+  변하지 않는 가치를 충족시키는 소프트웨어 기술들에 관심이 많습니다 :)
 </div>
 
 ## Work Experience
 **NCSOFT**
-- Assistant System Engineer
-- JUN 2020 ~ Now
+- System Engineer
+- Jan 202q ~ now
 
 ## Education
 **Hanyang University, ERICA Campus**
