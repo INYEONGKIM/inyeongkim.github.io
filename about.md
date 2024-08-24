@@ -10,7 +10,7 @@ title: About Me
 ## Work Experience
 **NCSOFT**
 - System Engineer
-- Jan 202q ~ now
+- Jan 2021 ~ now
 
 ## Education
 **Hanyang University, ERICA Campus**
